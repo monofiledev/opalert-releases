@@ -16,12 +16,6 @@ By utilizing local background processing, OpAlert operates entirely on the user'
 
 ## Installation & Build Instructions
 
-This repository is configured with a GitHub Actions CI/CD pipeline. 
-
-1. Fork or clone this repository.
-2. Navigate to the **Actions** tab in your GitHub repository.
-3. Trigger the `Build Native Flutter APK` workflow.
-4. Download the generated `.apk` artifact and install it directly on your Android device.
 
 ## Usage Guide
 
